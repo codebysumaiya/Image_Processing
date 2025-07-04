@@ -1,4 +1,4 @@
-# HRPlanesv2 Data Set - High Resolution Satellite Imagery for Aircraft Detection
+# HRPlanesv2 Data Set - High Resolution Satellite Imagery for Terrain Mapping
 
 This repository contains the details of the HRPlanesv2 high-resolution satellite imagery dataset for aircraft detection, created for use in [Dilsad Unsal's](https://www.linkedin.com/in/dilsad-unsal-b4a1101bb/) master's thesis, as well as the benchmark results of experiments using YOLOv4, YOLOv5, and YOLOv8, along with the associated weight files.
  
